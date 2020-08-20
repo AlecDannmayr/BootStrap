@@ -1,7 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Dosis:600,800');
 
-
-
+body {
+    font-family: 'dosis', sans-serif;
+    font-size: 200%;
+    color: #fff;
+    text-shadow: 1px 1px 1px #666;
+}
+.navbar {
+    background:  #297fb;
+}
 
 
 
