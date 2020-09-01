@@ -76,6 +76,28 @@ img {
     max-width: 200px;
     margin: 1% auto;
 }
+.social {
+    font-size: 500%;
+}
+
+.social a {
+    padding: 3%;
+    color: #FFF;
+}
+
+.social a:hover {
+    color: #d5d5b5
+}
+
+#home {
+    padding-top: 60px;
+}
+
+#about {
+    padding: 70px 0px;
+    background-color: #1fb8eb;
+}
+
 
 
 
