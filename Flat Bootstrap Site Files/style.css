@@ -32,6 +32,10 @@ body {
     padding-bottom: 5px;
 }
 
+.navbar-inverse .navbar-collapse, .navbar-inverse .navba-form {
+    border-color: #5398c6;
+}
+
 
 
 
