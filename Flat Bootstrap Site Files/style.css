@@ -47,29 +47,18 @@ img.banner {
     width: 100%;
 }
 
+h1 {
 
-.navbar-header {
-    padding-bottom: 5px;
 }
+h2 {
 
-.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-    border-color: #5398c6;
 }
+h3 {
 
-.navbar-inverse .navbar-toggle {
-    border-color: #5398c6;
 }
-
-.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-background-color: #5398c6;
+p {
+    
 }
-
-img.banner {
-    width: 100%;
-}
-
-
-
 
 
 
